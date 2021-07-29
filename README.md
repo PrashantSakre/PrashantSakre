@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Prashant Sakre. A Software Developer, Computer nerd and interested in knowing Astrophysics, cosmos and also sometime FPS gamer.
+
 <!--
 **PrashantSakre/PrashantSakre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
