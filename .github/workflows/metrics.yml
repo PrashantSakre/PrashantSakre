@@ -2,7 +2,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: '25 0/6 * * *' # Build once every 6 hours, starting at 25 minutes past the hour (UTC)
+    - cron: '25 0 1 * *' # Build once every 6 hours, starting at 25 minutes past the hour (UTC)
   workflow_dispatch:
   push: { branches: ['main'] }
 jobs:
@@ -74,7 +74,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
-          plugin_topics_sort: stars
+#           plugin_topics_sort: stars
 #           plugin_traffic: yes
 #           plugin_tweets: yes
 #           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
