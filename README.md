@@ -1,4 +1,4 @@
-![Metrics](https://github.com/PrashantSakre/PrashantSakre/blob/main/github-metrics.svg)
+Hi 👋
 
 <!--
 **PrashantSakre/PrashantSakre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
